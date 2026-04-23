@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 
 app = FastAPI()
-model = joblib.load('modelo_prestamos.joblib')
+model = joblib.load('model/modelo_prestamos.joblib')
 
 
 class PrestamoInput(BaseModel):
