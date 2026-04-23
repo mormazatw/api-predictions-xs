@@ -1,4 +1,4 @@
-# API PREDICCTIONS xs
+# API PREDICTIONS xs
 
 ### Requisitos Previos
 Instalar Python
